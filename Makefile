@@ -1,7 +1,7 @@
 .PHONY: all main keys
 
 # Replace with github username
-GITHUB_ACCOUNT="logicwax"
+GITHUB_ACCOUNT="zahin-mohammad"
 
 EXECUTABLES = ansible git curl
 K := $(foreach exec,$(EXECUTABLES),\
